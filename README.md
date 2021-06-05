@@ -14,7 +14,7 @@
 3) After applying the POST method we get the message broker id in pycharm.
      
 
-4) Lastly We update the status of that item using patch method of that created API in POSTMAN.
+4) Lastly We update the status of that item using PATCH method of that created API in POSTMAN.
 
     eg. { "status" : "pending" }
      
