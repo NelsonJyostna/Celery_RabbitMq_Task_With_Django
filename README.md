@@ -2,7 +2,7 @@
 
             celery -A RouteMLApiTask worker -l info -P eventlet
 
-2) Then parallely run the server of api Using following command 
+2) Then parallely hit the project url of api Using following command 
 
             python manage.py runserver
              
